@@ -19,5 +19,4 @@ public class Main2 {
 		m.start();
 		}
 	}
-
 }

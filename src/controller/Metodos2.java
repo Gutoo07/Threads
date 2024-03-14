@@ -13,7 +13,5 @@ public class Metodos2 extends Thread {
 			soma = soma + linha[i];
 		}
 		System.out.println("Soma da linha " + y + " = " + soma);
-
 	}
-
 }
